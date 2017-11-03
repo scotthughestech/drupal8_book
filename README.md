@@ -1,7 +1,7 @@
 This is the Drupal 8 demo site for Drupal 8: Learn By Building by Scott
 Hughes.
 
-You will be able to find the book on Amazon soon.
+You can buy the book on Amazon: https://www.amazon.com/dp/B073HRCZN8.
 
 Read more about the book at Scott Hughes' website: http://www.webapppath.com.
 
